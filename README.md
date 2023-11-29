@@ -1,1 +1,1 @@
-# NP-Complete
+# Minimum Graph Coloring
